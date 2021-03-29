@@ -16,8 +16,7 @@ Tools I use:
 * Linux (Pop! OS, Debian, Arch Linux)
 
 
-I also have a blog (mostly about technology, programming, music, and motorsports).
-
+I also have a blog (mostly about technology, programming, music, and motorsports):
 [https://stegall.tech]: https://stegall.tech "https://stegall.tech"
 
 [https://stegall.tech]
