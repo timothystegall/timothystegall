@@ -14,9 +14,4 @@ Tools I use:
 * Mozilla Firefox
 * Linux (Pop! OS, Debian, Arch Linux)
 
-
-I also have a blog (mostly about technology, programming, music, and motorsports):
-
-[https://stegall.tech]: https://stegall.tech "https://stegall.tech"
-
-[https://stegall.tech]
+I also have a blog at https://stegall.tech (mostly about technology, programming, music, and motorsports).
