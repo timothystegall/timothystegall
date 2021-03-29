@@ -17,6 +17,7 @@ Tools I use:
 
 
 I also have a blog (mostly about technology, programming, music, and motorsports):
+
 [https://stegall.tech]: https://stegall.tech "https://stegall.tech"
 
 [https://stegall.tech]
