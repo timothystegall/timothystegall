@@ -7,6 +7,7 @@ Skills:
 * Programming Languages: JavaScript, TypeScript, PHP, C
 * Frameworks/Libraries: Node.js, Vue.js
 * Databases: MySQL, PostgreSQL
+
 Tools I use:
 * GNU Emacs
 * GDB (GNU Debugger)
