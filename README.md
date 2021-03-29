@@ -15,9 +15,8 @@ Tools I use:
 * Mozilla Firefox
 * Linux (Pop! OS, Debian, Arch Linux)
 
-My Blog
--------
-I write mostly about technology, programming, music, and motorsports.
+
+I also have a blog (mostly about technology, programming, music, and motorsports).
 
 [https://stegall.tech]: https://stegall.tech "https://stegall.tech"
 
