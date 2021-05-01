@@ -9,9 +9,7 @@ Skills:
 * Databases: MySQL, PostgreSQL
 
 Tools I use:
-* GNU Emacs
+* Vim
 * GDB (GNU Debugger)
 * Mozilla Firefox
-* Linux (Pop! OS, Debian, Arch Linux)
-
-I also have a blog at https://stegall.tech (mostly about technology, music, and motorsports).
+* Linux (Arch Linux on laptops/desktops, Ubuntu on servers)
