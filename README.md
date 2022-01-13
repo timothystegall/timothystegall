@@ -1,6 +1,6 @@
 Hi, I'm Tim! 🙂
 --------------
-I'm a software engineer currently working at [Qumulex](https://www.qumulex.com/).
+I'm a Software Engineer currently working at [Qumulex](https://www.qumulex.com/).
 
 Skills:
 * Programming Languages: TypeScript, JavaScript, PHP, C
