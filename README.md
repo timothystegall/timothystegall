@@ -10,4 +10,4 @@ Skills:
 Tools I Use:
 * Visual Studio Code
 * Google Chrome
-* Linux (Ubuntu 21.04 on Desktop/Laptops and Ubuntu 20.04 LTS on Servers)
+* Linux (Ubuntu, usually LTS releases)
