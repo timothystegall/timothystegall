@@ -1,6 +1,6 @@
 Hi, I'm Tim! 🙂
 --------------
-I'm a Software Engineer currently working at [Qumulex](https://www.qumulex.com/).
+I'm a Software Engineer currently in the Indianapolis area.
 
 Skills:
 * Programming Languages: TypeScript, JavaScript, PHP, C
