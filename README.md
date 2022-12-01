@@ -6,6 +6,7 @@ Skills:
 * Programming Languages: TypeScript, JavaScript, PHP, C
 * Frameworks/Libraries: Node.js, Vue.js, React.js
 * Databases: MySQL, PostgreSQL
+* Infrastructure: Docker, Kubernetes
 
 Tools I Use:
 * Visual Studio Code
