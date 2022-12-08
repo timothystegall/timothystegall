@@ -1,6 +1,6 @@
 Hi, I'm Tim! 🙂
 --------------
-I'm a Software Engineer currently in the Indianapolis area.
+I'm a Software Developer currently in the Indianapolis area.
 
 Skills:
 * Programming Languages: TypeScript, JavaScript, PHP, C
