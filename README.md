@@ -11,4 +11,4 @@ Skills:
 Tools I Use:
 * Visual Studio Code
 * Google Chrome
-* Linux (Ubuntu, usually LTS releases)
+* Linux (Debian)
