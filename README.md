@@ -1,6 +1,6 @@
 Hi, I'm Tim! 🙂
 --------------
-I'm a Software Developer currently in the Indianapolis, Indiana area.
+I'm a Software Developer currently in the Detroit, Michigan area.
 
 Skills:
 * Programming Languages: TypeScript, JavaScript, C, PHP
