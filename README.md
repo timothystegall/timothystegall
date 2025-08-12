@@ -1,6 +1,6 @@
 Hi, I'm Tim! 🙂
 --------------
-I'm a Software Developer currently in the Detroit, Michigan metro area.
+I'm a Software Engineer with over 3 years of professional experience, currently living in the Detroit, Michigan metro area.
 
 Skills:
 * Programming Languages: TypeScript, JavaScript, C, PHP
