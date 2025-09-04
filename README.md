@@ -3,12 +3,8 @@ Hi, I'm Tim! 🙂
 I'm a Software Engineer with over 3 years of professional experience, currently living in the Detroit, Michigan metro area.
 
 Skills:
-* Programming Languages: TypeScript, JavaScript, C, PHP
+* Programming Languages: TypeScript, JavaScript, C, Python, PHP
 * Frameworks/Libraries:  React.js, Vue.js, Node.js
-* Databases: MySQL, PostgreSQL
+* Databases: MySQL, Microsoft SQL Server
 * Infrastructure: Docker, Kubernetes
-
-Tools I Use:
-* Visual Studio Code
-* Google Chrome
-* Linux (Debian)
+* Linux (Arch Linux, Ubuntu, Debian)
