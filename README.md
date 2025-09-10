@@ -7,4 +7,4 @@ Skills and Technologies:
 * Frameworks/Libraries:  React.js, Vue.js, Node.js
 * Databases: MySQL, Microsoft SQL Server
 * Infrastructure: Docker, Kubernetes
-* Linux (Arch Linux, Ubuntu, Debian)
+* Linux (Ubuntu, Debian, Arch Linux)
