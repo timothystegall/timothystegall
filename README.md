@@ -6,5 +6,5 @@ Skills and Technologies:
 * Programming Languages: TypeScript, JavaScript, C, Python, PHP
 * Frameworks/Libraries:  React.js, Vue.js, Node.js, SQLAlchemy, Shapely
 * Databases: Microsoft SQL Server, MySQL, SQLite
-* Infrastructure: Docker, Kubernetes
+* Infrastructure: Docker
 * Linux (Ubuntu, Debian, Arch Linux)
